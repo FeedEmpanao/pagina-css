@@ -37,6 +37,7 @@ body {
     background-color: coral;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: small;
+    text-decoration-color: aliceblue;
 }
 aside{
     text-align: right;
